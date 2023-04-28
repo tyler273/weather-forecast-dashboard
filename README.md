@@ -6,7 +6,7 @@ The goal of this project was create an application that would generate a five da
 
 ## Usage
 
-<img src="https://github.com/tyler273/password-generator/blob/main/images/livesite.png" />
+<img src="https://github.com/tyler273/weather-forecast-dashboard/blob/main/assets/images/website.png" />
 
 [Click here for repo](https://github.com/tyler273/weather-forecast-dashboard)
 
